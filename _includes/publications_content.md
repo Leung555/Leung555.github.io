@@ -9,7 +9,7 @@
     <p><strong>Nature's All‐in‐One: Multitasking Robots Inspired by Dung Beetles</strong><br>
     Leung, B., Gorb, S., & Manoonpong, P.<br>
     <em>Advanced Science</em>, 2024, 11(47), 2408080.<br>
-    (JIF = 14.3, SCI, Q1, citation = 1)<br>
+    (JIF = 14.3, SCI, Q1)<br>
     [<a href="#">PDF</a>] [<a href="#">Project Page</a>]</p>
   </div>
 </div>
@@ -23,7 +23,7 @@
     <p><strong>Leg-body coordination strategies for obstacle avoidance and narrow space navigation of multi-segmented, legged robots</strong><br>
     Mingchinda, N., Jaiton, V., Leung, B., & Manoonpong, P.<br>
     <em>Frontiers in Neurorobotics</em>, 2023, 17, 1214248.<br>
-    (JIF= 3.1, SCI, Q2, citation = 4)<br>
+    (JIF= 3.1, SCI, Q2)<br>
     [<a href="#">PDF</a>] [<a href="#">Project Page</a>]</p>
   </div>
 </div>
@@ -37,7 +37,7 @@
     <p><strong>Integrated modular neural control for versatile locomotion and object transportation of a dung beetle-like robot</strong><br>
     Leung, B., Billeschou, P., & Manoonpong, P.<br>
     <em>IEEE Transactions on Cybernetics</em>, 2023, 54(4), 2062-2075.<br>
-    (SJR = 4.51, JIF= 19.118, SCI, Q1, citation = 5)<br>
+    (SJR = 4.51, JIF= 19.118, SCI, Q1)<br>
     [<a href="#">PDF</a>] [<a href="#">Project Page</a>]</p>
   </div>
 </div>
@@ -51,7 +51,7 @@
     <p><strong>GRAB: GRAdient-based shape-adaptive locomotion control</strong><br>
     Phodapol, S., Chuthong, T., Leung, B., Srisuchinnawong, A., Manoonpong, P., & Dilokthanakul, N.<br>
     <em>IEEE Robotics and Automation Letters</em>, 2021, 7(2), 1087-1094. (RAL-ICRA)<br>
-    (SJR = 1.12 , JIF= 4.321, SCI, Q1, citation = 3)<br>
+    (SJR = 1.12 , JIF= 4.321, SCI, Q1)<br>
     [<a href="#">PDF</a>] [<a href="#">Project Page</a>]</p>
   </div>
 </div>
@@ -65,7 +65,7 @@
     <p><strong>Rules for the leg coordination of dung beetle ball rolling behaviour</strong><br>
     Leung, B., Bijma, N., Baird, E., Dacke, M., Gorb, S., & Manoonpong, P.<br>
     <em>Scientific reports</em>, 2020, 10(1), 9278.<br>
-    (JIF 4.525, SJR = 1.41, SCI, Q1, citation = 11)<br>
+    (JIF 4.525, SJR = 1.41, SCI, Q1)<br>
     [<a href="#">PDF</a>] [<a href="#">Project Page</a>]</p>
   </div>
 </div>
@@ -159,8 +159,7 @@
   <div style="flex: 1;">
     <p><strong>CPG driven RBF network control with reinforcement learning for gait optimization of a dung beetle-like robot</strong><br>
     Pitchai, M., Xiong, X., Thor, M., Billeschou, P., Mailänder, P. L., Leung, B., ... & Manoonpong, P.<br>
-    <em>ICANN</em>, 2019, pp. 698-710. Springer International Publishing.<br>
-    (citation= 31)<br>
+    <em>ICANN</em>, 2019, pp. 698-710. Springer International Publishing.
     [<a href="#">PDF</a>] [<a href="#">Project Page</a>]</p>
   </div>
 </div>
@@ -186,8 +185,7 @@
   <div style="flex: 1;">
     <p><strong>Modular neural control for bio-inspired walking and ball rolling of a dung beetle-like robot</strong><br>
     Leung, B., Thor, M., & Manoonpong, P.<br>
-    <em>Artificial Life Conference Proceedings</em>, 2018, pp. 335-342. MIT Press.<br>
-    (citation = 11)<br>
+    <em>Artificial Life Conference Proceedings</em>, 2018, pp. 335-342. MIT Press.
     [<a href="#">PDF</a>] [<a href="#">Project Page</a>]</p>
   </div>
 </div>
