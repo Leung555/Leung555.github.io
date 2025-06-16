@@ -45,7 +45,7 @@
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
-    <img src="/assets/images/placeholder_journal.png" style="width: 100%; height: auto;">
+    <img src="/images/paper_image/GRAB_ICRA_2022.jpg" style="width: 100%; height: auto;">
   </div>
   <div style="flex: 1;">
     <p><strong>GRAB: GRAdient-based shape-adaptive locomotion control</strong><br>
@@ -76,7 +76,7 @@
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
-    <img src="/assets/images/placeholder_conference.png" style="width: 100%; height: auto;">
+    <img src="/images/paper_image/hebb.gif" style="width: 100%; height: auto;">
   </div>
   <div style="flex: 1;">
     <p><strong><a href="https://arxiv.org/abs/2503.12406">Bio-Inspired Plastic Neural Networks for Zero-Shot Out-of-Distribution Generalization in Complex Animal-Inspired Robots</a></strong><br>
@@ -89,7 +89,7 @@
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
-    <img src="/assets/images/placeholder_conference.png" style="width: 100%; height: auto;">
+    <img src="/images/paper_image/poma.gif" style="width: 100%; height: auto;">
   </div>
   <div style="flex: 1;">
     <p><strong>POMA: Propagation-Based Obstacle Negotiation Control for Multi-segmented Robot Adaptation</strong><br>
@@ -102,7 +102,7 @@
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
-    <img src="/assets/images/placeholder_conference.png" style="width: 100%; height: auto;">
+    <img src="/images/paper_image/Freelander.gif" style="width: 100%; height: auto;">
   </div>
   <div style="flex: 1;">
     <p><strong>FreeLander: A Versatile, Modular, Multi-legged Robot Platform for Complex Terrains</strong><br>
@@ -115,7 +115,7 @@
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
-    <img src="/assets/images/placeholder_conference.png" style="width: 100%; height: auto;">
+    <img src="/images/paper_image/simple_torque.png" style="width: 100%; height: auto;">
   </div>
   <div style="flex: 1;">
     <p><strong>A Simple Torque Feedback-based Innate Mechanism for Intra-leg Coordination of Different Robot Morphologies</strong><br>
@@ -128,7 +128,7 @@
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
-    <img src="/assets/images/placeholder_conference.png" style="width: 100%; height: auto;">
+    <img src="/images/paper_image/millipede.png" style="width: 100%; height: auto;">
   </div>
   <div style="flex: 1;">
     <p><strong>Neural body bending control with temporal delays for millipede-like turning behaviour of a multi-segmented, legged robot</strong><br>
@@ -141,7 +141,7 @@
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
-    <img src="/assets/images/placeholder_conference.png" style="width: 100%; height: auto;">
+    <img src="/images/paper_image/dsf_cpg.png" style="width: 100%; height: auto;">
   </div>
   <div style="flex: 1;">
     <p><strong>Dynamical state forcing on central pattern generators for efficient robot locomotion control</strong><br>
@@ -154,7 +154,7 @@
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
-    <img src="/assets/images/placeholder_conference.png" style="width: 100%; height: auto;">
+    <img src="/images/paper_image/RBF.png" style="width: 100%; height: auto;">
   </div>
   <div style="flex: 1;">
     <p><strong>CPG driven RBF network control with reinforcement learning for gait optimization of a dung beetle-like robot</strong><br>
@@ -167,7 +167,7 @@
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
-    <img src="/assets/images/placeholder_conference.png" style="width: 100%; height: auto;">
+    <img src="/images/paper_image/DB_AMAM19.jpeg" style="width: 100%; height: auto;">
   </div>
   <div style="flex: 1;">
     <p><strong>Modular neural control for dung beetle-like leg movements of a dung beetle-like robot</strong><br>
