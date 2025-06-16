@@ -1,6 +1,8 @@
 <h2>Scientific Journals</h2>
 <hr style="margin-top:0; margin-bottom: 1em;">
 
+<!-- 2024 -->
+<h3>2024</h3>
 <div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
   <div style="flex: 0 0 200px; margin-right: 20px;">
     <img src="/images/paper_image/advs202470287-gra-0001-m.jpg" style="width: 100%; height: auto;">
@@ -17,6 +19,8 @@
 </div>
 <hr>
 
+<!-- 2023 -->
+<h3>2023</h3>
 <div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
   <div style="flex: 0 0 200px; margin-right: 20px;">
     <img src="/images/paper_image/millipede.gif" style="width: 100%; height: auto;">
@@ -45,10 +49,12 @@
     [<a href="https://www.frontiersin.org/journals/neurorobotics/articles/10.3389/fnbot.2023.1214248/full">PDF</a>] 
     <!-- [<a href="#">Project Page</a> -->
     </p>
-  </div>
+  </div>  
 </div>
 <hr>
 
+<!-- 2021 -->
+<h3>2021</h3>
 <div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
   <div style="flex: 0 0 200px; margin-right: 20px;">
     <img src="/images/paper_image/GRAB_ICRA_2022.jpg" style="width: 100%; height: auto;">
@@ -65,6 +71,8 @@
 </div>
 <hr>
 
+<!-- 2020 -->
+<h3>2020</h3>
 <div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
   <div style="flex: 0 0 200px; margin-right: 20px;">
     <img src="/images/paper_image/Pasted image.png" style="width: 100%; height: auto;">
@@ -84,6 +92,8 @@
 <h2 style="margin-top: 2em;">Conference Papers</h2>
 <hr style="margin-top:0; margin-bottom: 1em;">
 
+<!-- 2025 -->
+<h3>2025</h3>
 <div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
   <div style="flex: 0 0 250px; margin-right: 20px;">
     <img src="/images/paper_image/hebb.gif" style="width: 100%; height: auto;">
@@ -97,6 +107,8 @@
 </div>
 <hr>
 
+<!-- 2024 -->
+<h3>2024</h3>
 <div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
   <div style="flex: 0 0 200px; margin-right: 20px;">
     <img src="/images/paper_image/poma.gif" style="width: 100%; height: auto;">
@@ -112,6 +124,8 @@
 </div>
 <hr>
 
+<!-- 2023 -->
+<h3>2023</h3>
 <div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
   <div style="flex: 0 0 300px; margin-right: 20px;">
     <img src="/images/paper_image/Freelander.gif" style="width: 100%; height: auto;">
@@ -142,6 +156,8 @@
 </div>
 <hr>
 
+<!-- 2022 -->
+<h3>2022</h3>
 <div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
   <div style="flex: 0 0 200px; margin-right: 20px;">
     <img src="/images/paper_image/millipede.png" style="width: 100%; height: auto;">
@@ -157,6 +173,8 @@
 </div>
 <hr>
 
+<!-- 2020 -->
+<h3>2020</h3>
 <div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
   <div style="flex: 0 0 300px; margin-right: 20px;">
     <img src="/images/paper_image/dsf_cpg.png" style="width: 100%; height: auto;">
@@ -172,6 +190,8 @@
 </div>
 <hr>
 
+<!-- 2019 -->
+<h3>2019</h3>
 <div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
   <div style="flex: 0 0 300px; margin-right: 20px;">
     <img src="/images/paper_image/RBF.png" style="width: 100%; height: auto;">
@@ -202,6 +222,8 @@
 </div>
 <hr>
 
+<!-- 2018 -->
+<h3>2018</h3>
 <div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
   <div style="flex: 0 0 200px; margin-right: 20px;">
     <img src="/images/paper_image/alife2018.gif" style="width: 100%; height: auto;">
