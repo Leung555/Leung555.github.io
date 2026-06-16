@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Binggwong Leung — a robotics researcher from Thailand. I recently completed my Ph.D. in Information Science and Technology at the BRAIN Lab, VISTEC. Previously, I was a postdoctoral researcher at Osaka Institute of Technology and Menlo Research.
+Hi, I'm Binggwong Leung — a robotics researcher from Thailand. I am currently a Lecturer in the ICT Department at SIIT. I recently worked as an AI Researcher at Menlo Research, where I explored LLM/VLM/VLA-based robot control for locomotion, navigation, and object manipulation, after completing a postdoctoral position at Osaka Institute of Technology.
 
 My work explores the intersection of bioinspired design, neural control, and embodied AI — with a focus on enabling legged robots to move, adapt, and interact with their environment in intelligent ways. I’m especially interested in neural control for multilegged locomotion, object manipulation, and collective object transportation.
 

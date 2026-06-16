@@ -99,10 +99,10 @@
     <img src="/images/paper_image/hebb.gif" style="width: 100%; height: auto;">
   </div>
   <div style="flex: 1;">
-    <p><strong><a href="https://arxiv.org/abs/2503.12406">Bio-Inspired Plastic Neural Networks for Zero-Shot Out-of-Distribution Generalization in Complex Animal-Inspired Robots</a></strong><br>
+    <p><strong><a href="https://ieeexplore.ieee.org/abstract/document/11247433">Bio-Inspired Plastic Neural Networks for Zero-Shot Out-of-Distribution Generalization in Complex Animal-Inspired Robots</a></strong><br>
     Leung, B., Haomachai, W., Pedersen, J. W., Risi, S., & Manoonpong, P.<br>
-    <em>arXiv preprint arXiv:2503.12406</em>, 2025.<br>
-    [<a href="https://arxiv.org/pdf/2503.12406.pdf">arXiv PDF</a>] [<a href="#">Project Page</a>]</p>
+    <em>2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em>, 2025, pp. 13384-13391.<br>
+    [<a href="https://doi.org/10.1109/IROS60139.2025.11247433">DOI</a>] [<a href="https://arxiv.org/pdf/2503.12406.pdf">arXiv PDF</a>]</p>
   </div>
 </div>
 <hr>
